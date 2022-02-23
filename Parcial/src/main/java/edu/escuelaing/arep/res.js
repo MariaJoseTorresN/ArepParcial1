@@ -1,1 +1,3 @@
-api.openweathermap.org/data/2.5/weather?q=London,uk&callback=test&appid={API key}
+function listener(params) {
+    document.getElementById("ciudad");
+}
